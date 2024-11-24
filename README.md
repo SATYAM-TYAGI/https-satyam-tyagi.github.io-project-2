@@ -1,4 +1,3 @@
-# project-2.github.io
 A Budget Application that tracks income and expenses
 ## Expense Tracker Application
 # Overview
